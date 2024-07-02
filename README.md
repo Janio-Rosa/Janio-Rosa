@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Janio-Rosa
 - 👀 I’m interested in traveling, geography freedom, no boundaries
-- 🌱 I’m currently learning Solidity, Cairo, Hardhat, Truffle, Node.js
-- 💞️ I’m looking to collaborate on Blockchain Auditing and Blockchain Developing
+- 🌱 Solidity expert, Learning Cairo
+- 💞️ Independent Blockchain Security Researcher and Blockchain Developer
 - 📫 Get in touch by: janio.r.silva@gmail.com 
 
 <!---
