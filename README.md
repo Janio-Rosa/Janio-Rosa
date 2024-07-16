@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Janio-Rosa
-- 👀 I’m interested in traveling, geography freedom, no boundaries
 - 🌱 Solidity expert, Learning Cairo
 - 💞️ Independent Blockchain Security Researcher and Blockchain Developer
 - 📫 Get in touch by: janio.r.silva@gmail.com 
